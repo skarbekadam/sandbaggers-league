@@ -1,0 +1,1370 @@
+{
+  "league": {
+    "name": "Sandbaggers",
+    "course": "Viera East Golf Club",
+    "tees": "Green",
+    "holes": 9,
+    "night": "Thursday"
+  },
+  "players": [
+    {
+      "name": "Kyle Abbott",
+      "ghin": 12.8,
+      "status": "Active"
+    },
+    {
+      "name": "Phil Amick",
+      "ghin": 10.6,
+      "status": "Active"
+    },
+    {
+      "name": "Ric Brock",
+      "ghin": 19.1,
+      "status": "Active"
+    },
+    {
+      "name": "Dave Cook",
+      "ghin": 15.8,
+      "status": "Active"
+    },
+    {
+      "name": "John Curri",
+      "ghin": 23.2,
+      "status": "Active"
+    },
+    {
+      "name": "Jack Dorr",
+      "ghin": 15.9,
+      "status": "Active"
+    },
+    {
+      "name": "Phil Dwenger",
+      "ghin": 18.6,
+      "status": "Active"
+    },
+    {
+      "name": "Tom Gorres",
+      "ghin": 16.6,
+      "status": "Active"
+    },
+    {
+      "name": "Mark Hametz",
+      "ghin": 5.9,
+      "status": "Active"
+    },
+    {
+      "name": "Steve Jefferson",
+      "ghin": 12.1,
+      "status": "Active"
+    },
+    {
+      "name": "Ned Kesin",
+      "ghin": 21,
+      "status": "Active"
+    },
+    {
+      "name": "Tommy Killick",
+      "ghin": 35.8,
+      "status": "Active"
+    },
+    {
+      "name": "Steven Kubasik",
+      "ghin": 17.8,
+      "status": "Active"
+    },
+    {
+      "name": "Joe Leppien",
+      "ghin": 16.2,
+      "status": "Active"
+    },
+    {
+      "name": "Neil Long",
+      "ghin": 17.3,
+      "status": "Active"
+    },
+    {
+      "name": "Brian Medeiros",
+      "ghin": 10.5,
+      "status": "Active"
+    },
+    {
+      "name": "Tony Michaels",
+      "ghin": 14.2,
+      "status": "Active"
+    },
+    {
+      "name": "Dave Pyrik",
+      "ghin": 16.2,
+      "status": "Active"
+    },
+    {
+      "name": "Keith Reid",
+      "ghin": 23,
+      "status": "Active"
+    },
+    {
+      "name": "John Rice",
+      "ghin": 24,
+      "status": "Active"
+    },
+    {
+      "name": "Adam Skarbek",
+      "ghin": 14.9,
+      "status": "Active"
+    },
+    {
+      "name": "Troy Thompson",
+      "ghin": 12.1,
+      "status": "Active"
+    },
+    {
+      "name": "Tim Waring",
+      "ghin": 11.9,
+      "status": "Active"
+    },
+    {
+      "name": "Scott Werle",
+      "ghin": 24.9,
+      "status": "Active"
+    },
+    {
+      "name": "Tony Zizzo",
+      "ghin": 11.2,
+      "status": "Active"
+    }
+  ],
+  "standings": [
+    {
+      "rank": 1,
+      "player": "Dave Cook",
+      "weeksPlayed": 6,
+      "teamGame": 47,
+      "skins": 53.5,
+      "ctp": 9,
+      "total": 109.5
+    },
+    {
+      "rank": 2,
+      "player": "Jack Dorr",
+      "weeksPlayed": 3,
+      "teamGame": 48.5,
+      "skins": 39.5,
+      "ctp": 9,
+      "total": 97
+    },
+    {
+      "rank": 3,
+      "player": "Tim Waring",
+      "weeksPlayed": 5,
+      "teamGame": 18.5,
+      "skins": 19.5,
+      "ctp": 39,
+      "total": 77
+    },
+    {
+      "rank": 4,
+      "player": "Adam Skarbek",
+      "weeksPlayed": 5,
+      "teamGame": 40,
+      "skins": 29.5,
+      "ctp": 7,
+      "total": 76.5
+    },
+    {
+      "rank": 5,
+      "player": "Tony Michaels",
+      "weeksPlayed": 2,
+      "teamGame": 27,
+      "skins": 35.5,
+      "ctp": 7,
+      "total": 69.5
+    },
+    {
+      "rank": 6,
+      "player": "Dave Pyrik",
+      "weeksPlayed": 4,
+      "teamGame": 27.5,
+      "skins": 10.5,
+      "ctp": 28,
+      "total": 66
+    },
+    {
+      "rank": 7,
+      "player": "Phil Dwenger",
+      "weeksPlayed": 4,
+      "teamGame": 21,
+      "skins": 11.5,
+      "ctp": 30,
+      "total": 62.5
+    },
+    {
+      "rank": 7,
+      "player": "Brian Medeiros",
+      "weeksPlayed": 3,
+      "teamGame": 16,
+      "skins": 30.5,
+      "ctp": 16,
+      "total": 62.5
+    },
+    {
+      "rank": 9,
+      "player": "Joe Leppien",
+      "weeksPlayed": 4,
+      "teamGame": 27.5,
+      "skins": 5.5,
+      "ctp": 27,
+      "total": 60
+    },
+    {
+      "rank": 10,
+      "player": "Keith Reid",
+      "weeksPlayed": 2,
+      "teamGame": 29,
+      "skins": 20,
+      "ctp": 9,
+      "total": 58
+    },
+    {
+      "rank": 11,
+      "player": "Phil Amick",
+      "weeksPlayed": 3,
+      "teamGame": 17,
+      "skins": 25,
+      "ctp": 9,
+      "total": 51
+    },
+    {
+      "rank": 12,
+      "player": "Tom Gorres",
+      "weeksPlayed": 3,
+      "teamGame": 11,
+      "skins": 9,
+      "ctp": 20.5,
+      "total": 40.5
+    },
+    {
+      "rank": 13,
+      "player": "John Curri",
+      "weeksPlayed": 4,
+      "teamGame": 25.5,
+      "skins": 4.5,
+      "ctp": 7,
+      "total": 37
+    },
+    {
+      "rank": 13,
+      "player": "Ned Kesin",
+      "weeksPlayed": 2,
+      "teamGame": 0,
+      "skins": 24,
+      "ctp": 13,
+      "total": 37
+    },
+    {
+      "rank": 15,
+      "player": "Scott Werle",
+      "weeksPlayed": 2,
+      "teamGame": 11,
+      "skins": 9,
+      "ctp": 13.5,
+      "total": 33.5
+    },
+    {
+      "rank": 16,
+      "player": "Tommy Killick",
+      "weeksPlayed": 1,
+      "teamGame": 9.5,
+      "skins": 0,
+      "ctp": 16,
+      "total": 25.5
+    },
+    {
+      "rank": 17,
+      "player": "John Rice",
+      "weeksPlayed": 1,
+      "teamGame": 11.5,
+      "skins": 0,
+      "ctp": 13,
+      "total": 24.5
+    },
+    {
+      "rank": 18,
+      "player": "Tony Zizzo",
+      "weeksPlayed": 1,
+      "teamGame": 9.5,
+      "skins": 5.5,
+      "ctp": 0,
+      "total": 15
+    },
+    {
+      "rank": 19,
+      "player": "Steven Kubasik",
+      "weeksPlayed": 1,
+      "teamGame": 7,
+      "skins": 0,
+      "ctp": 6,
+      "total": 13
+    },
+    {
+      "rank": 20,
+      "player": "Steve Jefferson",
+      "weeksPlayed": 1,
+      "teamGame": 10,
+      "skins": 0,
+      "ctp": 0,
+      "total": 10
+    },
+    {
+      "rank": 21,
+      "player": "Neil Long",
+      "weeksPlayed": 1,
+      "teamGame": 0,
+      "skins": 4.5,
+      "ctp": 0,
+      "total": 4.5
+    },
+    {
+      "rank": null,
+      "player": "Kyle Abbott",
+      "weeksPlayed": 0,
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 0,
+      "total": 0
+    },
+    {
+      "rank": null,
+      "player": "Ric Brock",
+      "weeksPlayed": 0,
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 0,
+      "total": 0
+    },
+    {
+      "rank": null,
+      "player": "Mark Hametz",
+      "weeksPlayed": 0,
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 0,
+      "total": 0
+    },
+    {
+      "rank": null,
+      "player": "Troy Thompson",
+      "weeksPlayed": 0,
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 0,
+      "total": 0
+    }
+  ],
+  "weeklyResults": [
+    {
+      "week": 7,
+      "date": "2026-04-30",
+      "format": "Best Ball",
+      "player": "Adam Skarbek",
+      "teamGame": 8,
+      "skins": 0,
+      "ctp": 0,
+      "total": 8
+    },
+    {
+      "week": 7,
+      "date": "2026-04-30",
+      "format": "Best Ball",
+      "player": "John Curri",
+      "teamGame": 8,
+      "skins": 0,
+      "ctp": 0,
+      "total": 8
+    },
+    {
+      "week": 7,
+      "date": "2026-04-30",
+      "format": "Best Ball",
+      "player": "Joe Leppien",
+      "teamGame": 11.5,
+      "skins": 0,
+      "ctp": 13,
+      "total": 24.5
+    },
+    {
+      "week": 7,
+      "date": "2026-04-30",
+      "format": "Best Ball",
+      "player": "Jack Dorr",
+      "teamGame": 19.5,
+      "skins": 19.5,
+      "ctp": 0,
+      "total": 39
+    },
+    {
+      "week": 7,
+      "date": "2026-04-30",
+      "format": "Best Ball",
+      "player": "Ned Kesin",
+      "teamGame": 0,
+      "skins": 19.5,
+      "ctp": 13,
+      "total": 32.5
+    },
+    {
+      "week": 8,
+      "date": "2026-05-07",
+      "format": "Scramble",
+      "player": "Adam Skarbek",
+      "teamGame": 11,
+      "skins": 4.5,
+      "ctp": 0,
+      "total": 15.5
+    },
+    {
+      "week": 8,
+      "date": "2026-05-07",
+      "format": "Scramble",
+      "player": "John Curri",
+      "teamGame": 11,
+      "skins": 4.5,
+      "ctp": 0,
+      "total": 15.5
+    },
+    {
+      "week": 8,
+      "date": "2026-05-07",
+      "format": "Scramble",
+      "player": "Jack Dorr",
+      "teamGame": 16,
+      "skins": 9,
+      "ctp": 9,
+      "total": 34
+    },
+    {
+      "week": 8,
+      "date": "2026-05-07",
+      "format": "Scramble",
+      "player": "Keith Reid",
+      "teamGame": 16,
+      "skins": 9,
+      "ctp": 9,
+      "total": 34
+    },
+    {
+      "week": 8,
+      "date": "2026-05-07",
+      "format": "Scramble",
+      "player": "Phil Amick",
+      "teamGame": 9,
+      "skins": 0,
+      "ctp": 9,
+      "total": 18
+    },
+    {
+      "week": 8,
+      "date": "2026-05-07",
+      "format": "Scramble",
+      "player": "Dave Cook",
+      "teamGame": 9,
+      "skins": 0,
+      "ctp": 9,
+      "total": 18
+    },
+    {
+      "week": 8,
+      "date": "2026-05-07",
+      "format": "Scramble",
+      "player": "Tim Waring",
+      "teamGame": 0,
+      "skins": 4.5,
+      "ctp": 0,
+      "total": 4.5
+    },
+    {
+      "week": 8,
+      "date": "2026-05-07",
+      "format": "Scramble",
+      "player": "Ned Kesin",
+      "teamGame": 0,
+      "skins": 4.5,
+      "ctp": 0,
+      "total": 4.5
+    },
+    {
+      "week": 9,
+      "date": "2026-05-14",
+      "format": "Best Ball",
+      "player": "Phil Dwenger",
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 17,
+      "total": 17
+    },
+    {
+      "week": 9,
+      "date": "2026-05-14",
+      "format": "Best Ball",
+      "player": "Dave Cook",
+      "teamGame": 10,
+      "skins": 0,
+      "ctp": 0,
+      "total": 10
+    },
+    {
+      "week": 9,
+      "date": "2026-05-14",
+      "format": "Best Ball",
+      "player": "Steve Jefferson",
+      "teamGame": 10,
+      "skins": 0,
+      "ctp": 0,
+      "total": 10
+    },
+    {
+      "week": 9,
+      "date": "2026-05-14",
+      "format": "Best Ball",
+      "player": "Brian Medeiros",
+      "teamGame": 16,
+      "skins": 25,
+      "ctp": 0,
+      "total": 41
+    },
+    {
+      "week": 9,
+      "date": "2026-05-14",
+      "format": "Best Ball",
+      "player": "Joe Leppien",
+      "teamGame": 16,
+      "skins": 0,
+      "ctp": 0,
+      "total": 16
+    },
+    {
+      "week": 9,
+      "date": "2026-05-14",
+      "format": "Best Ball",
+      "player": "Phil Amick",
+      "teamGame": 0,
+      "skins": 25,
+      "ctp": 0,
+      "total": 25
+    },
+    {
+      "week": 9,
+      "date": "2026-05-14",
+      "format": "Best Ball",
+      "player": "Tim Waring",
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 17,
+      "total": 17
+    },
+    {
+      "week": 10,
+      "date": "2026-05-21",
+      "format": "Best Ball",
+      "player": "Tim Waring",
+      "teamGame": 10,
+      "skins": 0,
+      "ctp": 22,
+      "total": 32
+    },
+    {
+      "week": 10,
+      "date": "2026-05-21",
+      "format": "Best Ball",
+      "player": "Dave Cook",
+      "teamGame": 10,
+      "skins": 33,
+      "ctp": 0,
+      "total": 43
+    },
+    {
+      "week": 10,
+      "date": "2026-05-21",
+      "format": "Best Ball",
+      "player": "Adam Skarbek",
+      "teamGame": 6.5,
+      "skins": 0,
+      "ctp": 0,
+      "total": 6.5
+    },
+    {
+      "week": 10,
+      "date": "2026-05-21",
+      "format": "Best Ball",
+      "player": "John Curri",
+      "teamGame": 6.5,
+      "skins": 0,
+      "ctp": 0,
+      "total": 6.5
+    },
+    {
+      "week": 12,
+      "date": "2026-06-04",
+      "format": "Scramble",
+      "player": "Scott Werle",
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 7.5,
+      "total": 7.5
+    },
+    {
+      "week": 12,
+      "date": "2026-06-04",
+      "format": "Scramble",
+      "player": "Tom Gorres",
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 7.5,
+      "total": 7.5
+    },
+    {
+      "week": 12,
+      "date": "2026-06-04",
+      "format": "Scramble",
+      "player": "Jack Dorr",
+      "teamGame": 13,
+      "skins": 11,
+      "ctp": 0,
+      "total": 24
+    },
+    {
+      "week": 12,
+      "date": "2026-06-04",
+      "format": "Scramble",
+      "player": "Keith Reid",
+      "teamGame": 13,
+      "skins": 11,
+      "ctp": 0,
+      "total": 24
+    },
+    {
+      "week": 12,
+      "date": "2026-06-04",
+      "format": "Scramble",
+      "player": "Dave Cook",
+      "teamGame": 9.5,
+      "skins": 5.5,
+      "ctp": 0,
+      "total": 15
+    },
+    {
+      "week": 12,
+      "date": "2026-06-04",
+      "format": "Scramble",
+      "player": "Tony Zizzo",
+      "teamGame": 9.5,
+      "skins": 5.5,
+      "ctp": 0,
+      "total": 15
+    },
+    {
+      "week": 12,
+      "date": "2026-06-04",
+      "format": "Scramble",
+      "player": "Dave Pyrik",
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 15,
+      "total": 15
+    },
+    {
+      "week": 12,
+      "date": "2026-06-04",
+      "format": "Scramble",
+      "player": "Joe Leppien",
+      "teamGame": 0,
+      "skins": 5.5,
+      "ctp": 0,
+      "total": 5.5
+    },
+    {
+      "week": 12,
+      "date": "2026-06-04",
+      "format": "Scramble",
+      "player": "Brian Medeiros",
+      "teamGame": 0,
+      "skins": 5.5,
+      "ctp": 0,
+      "total": 5.5
+    },
+    {
+      "week": 13,
+      "date": "2026-06-11",
+      "format": "Scramble",
+      "player": "Adam Skarbek",
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 7,
+      "total": 7
+    },
+    {
+      "week": 13,
+      "date": "2026-06-11",
+      "format": "Scramble",
+      "player": "John Curri",
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 7,
+      "total": 7
+    },
+    {
+      "week": 13,
+      "date": "2026-06-11",
+      "format": "Scramble",
+      "player": "Dave Cook",
+      "teamGame": 8.5,
+      "skins": 10.5,
+      "ctp": 0,
+      "total": 19
+    },
+    {
+      "week": 13,
+      "date": "2026-06-11",
+      "format": "Scramble",
+      "player": "Tim Waring",
+      "teamGame": 8.5,
+      "skins": 10.5,
+      "ctp": 0,
+      "total": 19
+    },
+    {
+      "week": 13,
+      "date": "2026-06-11",
+      "format": "Scramble",
+      "player": "Tony Michaels",
+      "teamGame": 12.5,
+      "skins": 10.5,
+      "ctp": 7,
+      "total": 30
+    },
+    {
+      "week": 13,
+      "date": "2026-06-11",
+      "format": "Scramble",
+      "player": "Dave Pyrik",
+      "teamGame": 12.5,
+      "skins": 10.5,
+      "ctp": 7,
+      "total": 30
+    },
+    {
+      "week": 13,
+      "date": "2026-06-18",
+      "format": "Best Ball",
+      "player": "Phil Dwenger",
+      "teamGame": 11.5,
+      "skins": 7,
+      "ctp": 13,
+      "total": 31.5
+    },
+    {
+      "week": 14,
+      "date": "2026-06-18",
+      "format": "Best Ball",
+      "player": "John Rice",
+      "teamGame": 11.5,
+      "skins": 0,
+      "ctp": 13,
+      "total": 24.5
+    },
+    {
+      "week": 14,
+      "date": "2026-06-18",
+      "format": "Best Ball",
+      "player": "Dave Pyrik",
+      "teamGame": 8,
+      "skins": 0,
+      "ctp": 0,
+      "total": 8
+    },
+    {
+      "week": 14,
+      "date": "2026-06-18",
+      "format": "Best Ball",
+      "player": "Phil Amick",
+      "teamGame": 8,
+      "skins": 0,
+      "ctp": 0,
+      "total": 8
+    },
+    {
+      "week": 14,
+      "date": "2026-06-18",
+      "format": "Best Ball",
+      "player": "Joe Leppien",
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 14,
+      "total": 14
+    },
+    {
+      "week": 14,
+      "date": "2026-06-18",
+      "format": "Best Ball",
+      "player": "Tom Gorres",
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 7,
+      "total": 7
+    },
+    {
+      "week": 15,
+      "date": "2026-06-25",
+      "format": "Scramble",
+      "player": "Tim Waring",
+      "teamGame": 0,
+      "skins": 4.5,
+      "ctp": 0,
+      "total": 4.5
+    },
+    {
+      "week": 15,
+      "date": "2026-06-25",
+      "format": "Scramble",
+      "player": "Dave Cook",
+      "teamGame": 0,
+      "skins": 4.5,
+      "ctp": 0,
+      "total": 4.5
+    },
+    {
+      "week": 15,
+      "date": "2026-06-25",
+      "format": "Scramble",
+      "player": "Neil Long",
+      "teamGame": 0,
+      "skins": 4.5,
+      "ctp": 0,
+      "total": 4.5
+    },
+    {
+      "week": 15,
+      "date": "2026-06-25",
+      "format": "Scramble",
+      "player": "Phil Dwenger",
+      "teamGame": 0,
+      "skins": 4.5,
+      "ctp": 0,
+      "total": 4.5
+    },
+    {
+      "week": 15,
+      "date": "2026-06-25",
+      "format": "Scramble",
+      "player": "Dave Pyrik",
+      "teamGame": 7,
+      "skins": 0,
+      "ctp": 6,
+      "total": 13
+    },
+    {
+      "week": 15,
+      "date": "2026-06-25",
+      "format": "Scramble",
+      "player": "Steven Kubasik",
+      "teamGame": 7,
+      "skins": 0,
+      "ctp": 6,
+      "total": 13
+    },
+    {
+      "week": 15,
+      "date": "2026-06-25",
+      "format": "Scramble",
+      "player": "Scott Werle",
+      "teamGame": 11,
+      "skins": 9,
+      "ctp": 6,
+      "total": 26
+    },
+    {
+      "week": 15,
+      "date": "2026-06-25",
+      "format": "Scramble",
+      "player": "Tom Gorres",
+      "teamGame": 11,
+      "skins": 9,
+      "ctp": 6,
+      "total": 26
+    },
+    {
+      "week": 16,
+      "date": "2026-07-02",
+      "format": "Best Ball",
+      "player": "Adam Skarbek",
+      "teamGame": 14.5,
+      "skins": 25,
+      "ctp": 0,
+      "total": 39.5
+    },
+    {
+      "week": 16,
+      "date": "2026-07-02",
+      "format": "Best Ball",
+      "player": "Tony Michaels",
+      "teamGame": 14.5,
+      "skins": 25,
+      "ctp": 0,
+      "total": 39.5
+    },
+    {
+      "week": 16,
+      "date": "2026-07-02",
+      "format": "Best Ball",
+      "player": "Phil Dwenger",
+      "teamGame": 9.5,
+      "skins": 0,
+      "ctp": 0,
+      "total": 9.5
+    },
+    {
+      "week": 16,
+      "date": "2026-07-02",
+      "format": "Best Ball",
+      "player": "Tommy Killick",
+      "teamGame": 9.5,
+      "skins": 0,
+      "ctp": 16,
+      "total": 25.5
+    },
+    {
+      "week": 16,
+      "date": "2026-07-02",
+      "format": "Best Ball",
+      "player": "Brian Medeiros",
+      "teamGame": 0,
+      "skins": 0,
+      "ctp": 16,
+      "total": 16
+    }
+  ],
+  "schedule": [
+    {
+      "week": 1,
+      "date": "2026-03-19",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 2,
+      "date": "2026-03-26",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 3,
+      "date": "2026-04-02",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 4,
+      "date": "2026-04-09",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 5,
+      "date": "2026-04-16",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 6,
+      "date": "2026-04-23",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 7,
+      "date": "2026-04-30",
+      "format": "Best Ball",
+      "tees": "B/G Front",
+      "ctp1": null,
+      "ctp2": null,
+      "status": "Played"
+    },
+    {
+      "week": 8,
+      "date": "2026-05-07",
+      "format": "Scramble",
+      "tees": "B/G Front",
+      "ctp1": null,
+      "ctp2": null,
+      "status": "Played"
+    },
+    {
+      "week": 9,
+      "date": "2026-05-14",
+      "format": "Best Ball",
+      "tees": "B/G Front",
+      "ctp1": null,
+      "ctp2": null,
+      "status": "Played"
+    },
+    {
+      "week": 10,
+      "date": "2026-05-21",
+      "format": "Best Ball",
+      "tees": "B/G Front",
+      "ctp1": null,
+      "ctp2": null,
+      "status": "Played"
+    },
+    {
+      "week": 11,
+      "date": "2026-05-28",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": "Cancelled"
+    },
+    {
+      "week": 12,
+      "date": "2026-06-04",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 13,
+      "date": "2026-06-11",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 14,
+      "date": "2026-06-18",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 15,
+      "date": "2026-06-25",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 16,
+      "date": "2026-07-02",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 17,
+      "date": "2026-07-09",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 18,
+      "date": "2026-07-16",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 19,
+      "date": "2026-07-23",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 20,
+      "date": "2026-07-30",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 21,
+      "date": "2026-08-06",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 22,
+      "date": "2026-08-13",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 23,
+      "date": "2026-08-20",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 24,
+      "date": "2026-08-27",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 25,
+      "date": "2026-09-03",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 26,
+      "date": "2026-09-10",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 27,
+      "date": "2026-09-17",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 28,
+      "date": "2026-09-24",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 29,
+      "date": "2026-10-01",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    },
+    {
+      "week": 30,
+      "date": "2026-10-08",
+      "format": "",
+      "tees": "",
+      "ctp1": null,
+      "ctp2": null,
+      "status": ""
+    }
+  ],
+  "course": {
+    "frontNine": [
+      {
+        "hole": 1,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "hole": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "hole": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "hole": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "hole": 5,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "hole": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "hole": 7,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "hole": 8,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "hole": 9,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "backNine": [
+      {
+        "hole": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "hole": 11,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "hole": 12,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "hole": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "hole": 14,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "hole": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "hole": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "hole": 17,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "hole": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ]
+  },
+  "payouts": [
+    {
+      "players": 20,
+      "first": 36,
+      "second": 24
+    },
+    {
+      "players": 19,
+      "first": 34,
+      "second": 23
+    },
+    {
+      "players": 18,
+      "first": 32,
+      "second": 22
+    },
+    {
+      "players": 17,
+      "first": 31,
+      "second": 20
+    },
+    {
+      "players": 16,
+      "first": 29,
+      "second": 19
+    },
+    {
+      "players": 15,
+      "first": 27,
+      "second": 18
+    },
+    {
+      "players": 14,
+      "first": 25,
+      "second": 17
+    },
+    {
+      "players": 13,
+      "first": 23,
+      "second": 16
+    },
+    {
+      "players": 12,
+      "first": 22,
+      "second": 14
+    },
+    {
+      "players": 11,
+      "first": 20,
+      "second": 13
+    },
+    {
+      "players": 10,
+      "first": 18,
+      "second": 12
+    }
+  ]
+}
